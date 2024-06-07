@@ -1,0 +1,7 @@
+# .gitignore
+
+# Игнорировать папку __pycache__
+__pycache__/
+
+# Игнорировать файл json.py
+create_json.py
