@@ -6,3 +6,4 @@ Business process automation system
 
 ### List of recomended LM's
 - Llama3-instruct-8b (English)
+- Zephyr-7B-β (English, Russian)
